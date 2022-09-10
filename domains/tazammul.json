@@ -1,0 +1,11 @@
+{
+    "description": "Want to use this domain for my portfolio",
+    "owner": {
+      "username": "MohdTazammul",
+      "email": "tazammul1683@gmail.com"
+    },
+    "record": {
+      "CNAME": "https://mohd-tazammul.netlify.app/"
+    }
+  }
+  
